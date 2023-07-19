@@ -1,0 +1,5 @@
+• Pour avoir une mot de passe acceptable,il doit satisfaire les qualifications minimum suivantes :
+	• Longueur minimum de huit caractères
+	• Contenir au moins un caractère numérique
+	• Contenir au moins un caractère non alphabétique, numérique et figurant : @, #, $, %,&, *, +, -, =
+	• Eviter les séquences caractères consécutifs(exemple : "abcd" .
